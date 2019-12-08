@@ -14,3 +14,5 @@ Well, nothing is perfect! This has to do with the way bloom filters work. They h
 #### what is this project about?
 In this project, we intended to simulate an airport security system that which tries to catch criminals as they use the airport by using camera and other surveillance feed to quickly check if a passenger is a documented criminal. However, since the bloom filter can produce false postives, we use a hashtable to store the actual data. This way all positives can be verified by pulling their records.
 
+## How to use it...
+simply download or clone the repo and and run the TSA.java file. It is the the starting point of the program. all other files do not contain main methods hence will not run on their own.
