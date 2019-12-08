@@ -1,4 +1,7 @@
 # crime_watch_simulation
+
+## Using a bloom filter, hastable Object Oriented Programming and Java to model an airport security system.
+
 ### Heard of bloom filters? 
 
 A Bloom filter is a very interesting data structure. It allows for super fast and lightweight check of the existence of information without retrieving the information itself. 
