@@ -1,6 +1,6 @@
 # crime_watch_simulation
 
-## Using a bloom filter, hastable Object Oriented Programming and Java to model an airport security system.
+## Using a bloom filter, hastable, Object Oriented Programming and Java to model an airport security system.
 
 ### Heard of bloom filters? 
 
